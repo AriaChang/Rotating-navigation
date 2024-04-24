@@ -1,3 +1,3 @@
-# Rotation navigation
+# Rotating navigation
 
 HTML / CSS / Javascript
